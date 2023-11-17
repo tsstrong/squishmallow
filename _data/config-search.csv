@@ -6,3 +6,4 @@ description,true,true
 subject,true,true
 location,true,false
 color,true,true
+retailer,true,true
