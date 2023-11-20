@@ -2,7 +2,7 @@ field,display_name,btn,hidden,sort_name
 date,Date,,,Date
 creator,Creator,,,
 subject,Subject,true,,
-location,,true
+location,Location,true,,
 species,Species,true,,
 type,Type,true,,
 color,Color,true,,
