@@ -5,3 +5,6 @@ subject,,true
 location,,true
 color,Color,true,,
 retailer,Retailer,true,,
+biography,Biography,true,,
+collectornumber,Collector Number,true,,
+squishdate,Squish Date,true,,
