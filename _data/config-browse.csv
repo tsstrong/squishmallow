@@ -3,8 +3,9 @@ date,Date,,,Date
 creator,Creator,,,
 subject,Subject,true,,
 location,,true
-color,Color,true,,
-retailer,Retailer,true,,
-biography,Biography,true,,
+species,Species,true,,
+type,Type,true,,
 collectornumber,Collector Number,true,,
 squishdate,Squish Date,true,,
+color,Color,true,,
+retailer,Retailer,true,,
