@@ -12,8 +12,13 @@ credits: true
 
 {% include feature/nav-menu.html sections="About the Collection;About the About Page" %}
 
-## About the Collection
+## What are Squishmallows
 
+Squishmallows are the latest pop culture phenomenon which has been dubbed as Gen Z’s Beanie Baby Craze.  While the main target audience of the toys is children, adults have been drivers of sales for Squishmallows. Articles from the [Washington Post](https://www.washingtonpost.com/business/2023/06/24/squishmallows-toy/) have interviewed collectors who have upwards of 400 Squishmallows in their collection. A lot of the appeal of Squishmallows comes from their cute appearance, soft fabric texture, and cloud-like stuffing. Another reason that collectors buy them is because of their personalities. Each Squishmallow comes with their own biography that highlights their interests.  
+
+## About the Collection  
+
+This collection of Squishmallows are from Julia. She currently has 124 Squishmallows in her collection that range in a variety of sizes and types.
 This site is generated using [CollectionBuilder-GH](https://collectionbuilding.github.io/gh/), a project to create a free and simple digital collection using [GitHub Pages](https://pages.github.com/) from: 
 
 - a CSV of collection metadata
