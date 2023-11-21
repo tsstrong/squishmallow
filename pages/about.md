@@ -10,7 +10,7 @@ credits: true
 
 {% include feature/jumbotron.html objectid="squish29" %}
 
-{% include feature/nav-menu.html sections="What are Squishmallows;About the Collection;About the About Page" %}
+{% include feature/nav-menu.html sections="What are Squishmallows;About the Collection;About the Page" %}
 
 ## What are Squishmallows
 
