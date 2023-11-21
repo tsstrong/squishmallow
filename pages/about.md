@@ -14,7 +14,7 @@ credits: true
 
 ## What are Squishmallows
 
-Squishmallows are the latest pop culture phenomenon which has been dubbed as Gen Z’s Beanie Baby Craze.  While the main target audience of the toys is children, adults have been drivers of sales for Squishmallows. Articles from the [Washington Post](https://www.washingtonpost.com/business/2023/06/24/squishmallows-toy/) have interviewed collectors who have upwards of 400 Squishmallows in their collection. A lot of the appeal of Squishmallows comes from their cute appearance, soft fabric texture, and cloud-like stuffing. Another reason that collectors buy them is because of their personalities. Each Squishmallow comes with their own biography that highlights their interests.  
+Squishmallows are the latest pop culture phenomenon which has been dubbed as Gen Z’s Beanie Baby raze.  While the main target audience of the toys is children, adults have been huge fans of Squishmallows. An article from the [Washington Post](https://www.washingtonpost.com/business/2023/06/24/squishmallows-toy/) interviewed a collector who has upwards of 400 Squishmallows in their collection. A lot of the appeal of Squishmallows comes from their cute appearance, soft fabric texture, and cloud-like stuffing. Another reason that collectors buy them is because of their personalities. Each Squishmallow also comes with their own biography that highlights their interests.  
 
 ## About the Collection  
 
