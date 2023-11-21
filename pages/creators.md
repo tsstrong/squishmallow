@@ -4,7 +4,7 @@ layout: about
 permalink: /creators.html
 ---
 ## About the Collector  
-{% include feature/image.html objectid="juliapic.jpg" %}  
+{% include feature/image.html objectid="squish1" %}  
 
 Julia has been a Squishmallow collector since 2017. Her collection began when her friends gave her a Squishmallow as a gift. Since then, she fell in love with these stuffed animals and has been collecting ever since.  
 
