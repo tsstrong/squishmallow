@@ -18,7 +18,9 @@ Squishmallows are the latest pop culture phenomenon which has been dubbed as Gen
 
 ## About the Collection  
 
-This collection of Squishmallows is from Julia. She currently has 124 Squishmallows in her collection that range in a variety of sizes and types. This digital library only highlights 24 of the items in her collection. The items that were selected were based on her favorites as well as for their uniqueness within her collection. 
+This collection of Squishmallows is from Julia. She currently has 124 Squishmallows in her collection that range in a variety of sizes and types. This digital library only highlights 24 of the items in her collection. The items that were selected were based on her favorites as well as for their uniqueness within her collection.  
+
+## About the Page  
 This site is generated using [CollectionBuilder-GH](https://collectionbuilding.github.io/gh/), a project to create a free and simple digital collection using [GitHub Pages](https://pages.github.com/) from: 
 
 - a CSV of collection metadata
@@ -28,5 +30,4 @@ The template repository features four objects from the University of Idaho Libra
 
 For full details of creating your own collection site, visit [CollectionBuilder Documentation](https://collectionbuilder.github.io/cb-docs/)!
 
-<!-- IMPORTANT!!! DELETE this comment and the include below when you are finished editing this page for your collection. The include below introduces about page features. They will show up on your collection's about page until you delete it.  -->
-{% include cb/about_the_about.md %} 
+
